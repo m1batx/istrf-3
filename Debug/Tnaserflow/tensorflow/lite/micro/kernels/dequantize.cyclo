@@ -1,0 +1,4 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/dequantize.cc:39:7:void* tflite::ops::micro::dequantize::Init(TfLiteContext*, const char*, size_t)	2
+../Tnaserflow/tensorflow/lite/micro/kernels/dequantize.cc:49:14:TfLiteStatus tflite::ops::micro::dequantize::Prepare(TfLiteContext*, TfLiteNode*)	7
+../Tnaserflow/tensorflow/lite/micro/kernels/dequantize.cc:79:14:TfLiteStatus tflite::ops::micro::dequantize::Eval(TfLiteContext*, TfLiteNode*)	135
+../Tnaserflow/tensorflow/lite/micro/kernels/dequantize.cc:148:20:TfLiteRegistration tflite::ops::micro::Register_DEQUANTIZE()	1

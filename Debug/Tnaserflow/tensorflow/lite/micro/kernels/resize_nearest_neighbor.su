@@ -1,0 +1,3 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/resize_nearest_neighbor.cc:33:14:TfLiteStatus tflite::ops::micro::resize_nearest_neighbor::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+../Tnaserflow/tensorflow/lite/micro/kernels/resize_nearest_neighbor.cc:60:14:TfLiteStatus tflite::ops::micro::resize_nearest_neighbor::Eval(TfLiteContext*, TfLiteNode*)	488	static
+../Tnaserflow/tensorflow/lite/micro/kernels/resize_nearest_neighbor.cc:98:20:TfLiteRegistration tflite::ops::micro::Register_RESIZE_NEAREST_NEIGHBOR()	8	static

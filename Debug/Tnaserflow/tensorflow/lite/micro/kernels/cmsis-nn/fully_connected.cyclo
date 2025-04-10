@@ -1,0 +1,6 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:78:7:void* tflite::ops::micro::fully_connected::Init(TfLiteContext*, const char*, size_t)	2
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:132:14:TfLiteStatus tflite::ops::micro::fully_connected::EvalQuantizedInt8(TfLiteContext*, TfLiteNode*, const {anonymous}::OpData&, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	51
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:88:14:TfLiteStatus tflite::ops::micro::fully_connected::Prepare(TfLiteContext*, TfLiteNode*)	23
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:262:14:TfLiteStatus tflite::ops::micro::fully_connected::EvalFloat(TfLiteContext*, TfLiteNode*, TfLiteFusedActivation, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	53
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:280:14:TfLiteStatus tflite::ops::micro::fully_connected::Eval(TfLiteContext*, TfLiteNode*)	102
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/fully_connected.cc:315:20:TfLiteRegistration tflite::ops::micro::Register_FULLY_CONNECTED()	1

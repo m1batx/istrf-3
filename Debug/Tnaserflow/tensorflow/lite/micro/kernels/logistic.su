@@ -1,0 +1,7 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/logistic.cc:69:7:void* tflite::ops::micro::activations::LogisticInit(TfLiteContext*, const char*, size_t)	16	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logistic.cc:79:14:TfLiteStatus tflite::ops::micro::activations::LogisticPrepare(TfLiteContext*, TfLiteNode*)	40	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logistic.cc:136:20:TfLiteRegistration tflite::ops::micro::Register_LOGISTIC()	8	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/third_party/gemmlowp/fixedpoint/fixedpoint.h:842:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::one_over_one_plus_x_for_x_in_0_1(FixedPoint<tRawType, 0>) [with tRawType = long int]	16	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/third_party/gemmlowp/fixedpoint/fixedpoint.h:721:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_interval_between_negative_one_quarter_and_0_excl(FixedPoint<tRawType, 0>) [with tRawType = long int]	16	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/third_party/gemmlowp/fixedpoint/fixedpoint.h:746:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_negative_values(FixedPoint<tRawType, tIntegerBits_a>) [with tRawType = long int; int tIntegerBits = 4]	32	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logistic.cc:86:14:TfLiteStatus tflite::ops::micro::activations::LogisticEval(TfLiteContext*, TfLiteNode*)	128	static

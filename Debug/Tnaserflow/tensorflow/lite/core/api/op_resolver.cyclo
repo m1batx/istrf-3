@@ -1,0 +1,1 @@
+../Tnaserflow/tensorflow/lite/core/api/op_resolver.cc:24:14:TfLiteStatus tflite::GetRegistrationFromOpCode(const OperatorCode*, const OpResolver&, ErrorReporter*, const TfLiteRegistration**)	16

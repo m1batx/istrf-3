@@ -1,0 +1,8 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:53:6:bool tflite::ops::micro::logical::{anonymous}::LogicalOr(bool, bool)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:59:6:bool tflite::ops::micro::logical::{anonymous}::LogicalAnd(bool, bool)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:68:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_OR()	8	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:81:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_AND()	8	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/binary_function.h:33:13:void tflite::reference_ops::BroadcastBinaryFunction4DSlow(const tflite::RuntimeShape&, const T1*, const tflite::RuntimeShape&, const T2*, const tflite::RuntimeShape&, R*, R (*)(T1, T2)) [with R = bool; T1 = bool; T2 = bool]	208	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:32:14:TfLiteStatus tflite::ops::micro::logical::{anonymous}::LogicalImpl(TfLiteContext*, TfLiteNode*, bool (*)(bool, bool))	136	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:61:14:TfLiteStatus tflite::ops::micro::logical::{anonymous}::LogicalAndEval(TfLiteContext*, TfLiteNode*)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/logical.cc:55:14:TfLiteStatus tflite::ops::micro::logical::{anonymous}::LogicalOrEval(TfLiteContext*, TfLiteNode*)	0	static

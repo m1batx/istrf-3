@@ -1,0 +1,4 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/l2norm.cc:36:14:TfLiteStatus tflite::ops::micro::l2norm::Prepare(TfLiteContext*, TfLiteNode*)	14
+../Tnaserflow/tensorflow/lite/micro/kernels/l2norm.cc:71:14:TfLiteStatus tflite::ops::micro::l2norm::Eval(TfLiteContext*, TfLiteNode*)	404
+../Tnaserflow/tensorflow/lite/micro/kernels/l2norm.cc:131:20:TfLiteRegistration tflite::ops::micro::Register_L2NORM_REF()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/l2norm.cc:142:20:TfLiteRegistration tflite::ops::micro::Register_L2_NORMALIZATION()	1

@@ -1,0 +1,5 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/prelu.cc:28:14:TfLiteStatus tflite::ops::micro::activations::PreluPrepare(TfLiteContext*, TfLiteNode*)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/prelu.cc:131:20:TfLiteRegistration tflite::ops::micro::Register_PRELU()	8	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/prelu.h:28:13:void tflite::reference_ops::BroadcastPrelu4DSlow(const tflite::PreluParams&, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = unsigned char]	336	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/prelu.h:28:13:void tflite::reference_ops::BroadcastPrelu4DSlow(const tflite::PreluParams&, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = signed char]	336	static
+../Tnaserflow/tensorflow/lite/micro/kernels/prelu.cc:63:14:TfLiteStatus tflite::ops::micro::activations::PreluEval(TfLiteContext*, TfLiteNode*)	416	static

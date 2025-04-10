@@ -1,0 +1,10 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:40:7:void* tflite::ops::micro::reduce::InitMean(TfLiteContext*, const char*, size_t)	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/reduce.h:58:13:bool tflite::reference_ops::ResolveAxis(int, const int*, int64_t, int*, int*)	8
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/reduce.h:252:13:void tflite::reference_ops::Mean(const tflite::MeanParams&, const tflite::RuntimeShape&, const uint8_t*, int32, float, const tflite::RuntimeShape&, uint8_t*, int32, float)	41
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/integer_ops/mean.h:23:13:void tflite::reference_integer_ops::Mean(const tflite::MeanParams&, int32_t, int32_t, const tflite::RuntimeShape&, const int8_t*, int32, const tflite::RuntimeShape&, int8_t*, int32)	47
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:46:14:TfLiteStatus tflite::ops::micro::reduce::PrepareSimple(TfLiteContext*, TfLiteNode*)	4
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:64:14:TfLiteStatus tflite::ops::micro::reduce::PrepareMeanOrSum(TfLiteContext*, TfLiteNode*)	6
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:85:6:void tflite::ops::micro::reduce::ResolveAxis(const int*, int, tflite::MeanParams*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:215:20:TfLiteRegistration tflite::ops::micro::Register_MEAN()	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/kernels/internal/reference/reduce.h:209:13:void tflite::reference_ops::Mean(const tflite::MeanParams&, const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = float]	38
+../Tnaserflow/tensorflow/lite/micro/kernels/reduce.cc:97:14:TfLiteStatus tflite::ops::micro::reduce::EvalMean(TfLiteContext*, TfLiteNode*)	200

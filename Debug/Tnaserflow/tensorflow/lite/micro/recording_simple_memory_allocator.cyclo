@@ -1,0 +1,9 @@
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:31:1:tflite::RecordingSimpleMemoryAllocator::~RecordingSimpleMemoryAllocator()	1
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:31:1:virtual tflite::RecordingSimpleMemoryAllocator::~RecordingSimpleMemoryAllocator()	1
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:59:10:virtual uint8_t* tflite::RecordingSimpleMemoryAllocator::AllocateFromHead(size_t, size_t)	2
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:71:10:virtual uint8_t* tflite::RecordingSimpleMemoryAllocator::AllocateFromTail(size_t, size_t)	2
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:24:1:tflite::RecordingSimpleMemoryAllocator::RecordingSimpleMemoryAllocator(tflite::ErrorReporter*, uint8_t*, size_t)	1
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:33:33:static tflite::RecordingSimpleMemoryAllocator* tflite::RecordingSimpleMemoryAllocator::Create(tflite::ErrorReporter*, uint8_t*, size_t)	3
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:47:8:size_t tflite::RecordingSimpleMemoryAllocator::GetRequestedBytes() const	1
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:51:8:size_t tflite::RecordingSimpleMemoryAllocator::GetUsedBytes() const	1
+../Tnaserflow/tensorflow/lite/micro/recording_simple_memory_allocator.cc:55:8:size_t tflite::RecordingSimpleMemoryAllocator::GetAllocatedCount() const	1

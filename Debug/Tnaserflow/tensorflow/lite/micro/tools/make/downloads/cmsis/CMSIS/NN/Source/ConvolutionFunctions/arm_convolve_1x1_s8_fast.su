@@ -1,0 +1,2 @@
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c:53:12:arm_convolve_1x1_s8_fast	56	static
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_1x1_s8_fast.c:174:9:arm_convolve_1x1_s8_fast_get_buffer_size	0	static

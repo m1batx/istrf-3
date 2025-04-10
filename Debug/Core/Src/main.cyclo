@@ -1,0 +1,18 @@
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:34:7:tflite::MicroMutableOpResolver<2>::~MicroMutableOpResolver()	1
+../Core/Src/main.cpp:143:44:void __tcf_0()	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:39:29:const TfLiteRegistration* tflite::MicroMutableOpResolver<tOpCount>::FindOp(tflite::BuiltinOperator) const [with unsigned int tOpCount = 2]	6
+../Core/Src/main.cpp:160:80:void __tcf_1()	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:34:7:virtual tflite::MicroMutableOpResolver<2>::~MicroMutableOpResolver()	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:62:41:TfLiteStatus (* tflite::MicroMutableOpResolver<tOpCount>::GetOpDataParser(tflite::BuiltinOperator) const)(const tflite::Operator*, tflite::ErrorReporter*, tflite::BuiltinDataAllocator*, void**) [with unsigned int tOpCount = 2]	5
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:51:29:const TfLiteRegistration* tflite::MicroMutableOpResolver<tOpCount>::FindOp(const char*) const [with unsigned int tOpCount = 2]	7
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_op_resolver.h:53:29:virtual const TfLiteRegistration* tflite::MicroOpResolver::FindOp(tflite::BuiltinOperator, int) const	7
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_op_resolver.h:60:29:virtual const TfLiteRegistration* tflite::MicroOpResolver::FindOp(const char*, int) const	8
+../Core/Src/main.cpp:46:17:void DebugLog(const char*)	1
+../Core/Src/main.cpp:116:7:float relu(float)	1
+../Core/Src/main.cpp:122:6:void TFLM_Init()	26
+../Core/Src/main.cpp:203:6:void TFLM_RunInference(const float*, float*)	7
+../Core/Src/main.cpp:370:6:void SystemClock_Config()	4
+../Core/Src/main.cpp:248:5:int main()	10
+../Core/Src/main.cpp:548:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	6
+../Core/Src/main.cpp:618:6:void BSP_PB_Callback(Button_TypeDef)	2
+../Core/Src/main.cpp:630:6:void Error_Handler()	1

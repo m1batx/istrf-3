@@ -1,0 +1,15 @@
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.h:52:7:tflite::RecordingMicroAllocator::~RecordingMicroAllocator()	8	static
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.h:52:7:virtual tflite::RecordingMicroAllocator::~RecordingMicroAllocator()	8	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:25:1:tflite::RecordingMicroAllocator::RecordingMicroAllocator(tflite::RecordingSimpleMemoryAllocator*, tflite::ErrorReporter*)	16	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:31:26:static tflite::RecordingMicroAllocator* tflite::RecordingMicroAllocator::Create(uint8_t*, size_t, tflite::ErrorReporter*)	16	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:47:20:tflite::RecordedAllocation tflite::RecordingMicroAllocator::GetRecordedAllocation(tflite::RecordedAllocationType) const	16	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:67:1:const tflite::RecordingSimpleMemoryAllocator* tflite::RecordingMicroAllocator::GetSimpleMemoryAllocator() const	0	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:71:6:void tflite::RecordingMicroAllocator::PrintAllocations() const	48	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:99:6:void tflite::RecordingMicroAllocator::PrintRecordedAllocation(tflite::RecordedAllocationType, const char*, const char*) const	56	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:190:20:tflite::RecordedAllocation tflite::RecordingMicroAllocator::SnapshotAllocationUsage() const	16	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:196:6:void tflite::RecordingMicroAllocator::RecordAllocationUsage(const tflite::RecordedAllocation&, tflite::RecordedAllocation&)	16	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:111:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateTfLiteTensorArray(TfLiteContext*, const tflite::SubGraph*)	32	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:129:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::PopulateTfLiteTensorArrayFromFlatbuffer(const tflite::Model*, TfLiteContext*, const tflite::SubGraph*)	32	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:141:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateNodeAndRegistrations(const tflite::SubGraph*, tflite::NodeAndRegistration**)	32	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:165:1:virtual TfLiteStatus tflite::RecordingMicroAllocator::PrepareNodeAndRegistrationDataFromFlatbuffer(const tflite::Model*, const tflite::SubGraph*, const tflite::MicroOpResolver&, tflite::NodeAndRegistration*)	48	static
+../Tnaserflow/tensorflow/lite/micro/recording_micro_allocator.cc:179:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateVariables(TfLiteContext*, const tflite::SubGraph*)	32	static

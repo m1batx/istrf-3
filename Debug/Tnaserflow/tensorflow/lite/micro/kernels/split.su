@@ -1,0 +1,2 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/split.cc:68:14:TfLiteStatus tflite::ops::micro::split::Eval(TfLiteContext*, TfLiteNode*)	112	static
+../Tnaserflow/tensorflow/lite/micro/kernels/split.cc:114:20:TfLiteRegistration tflite::ops::micro::Register_SPLIT()	8	static

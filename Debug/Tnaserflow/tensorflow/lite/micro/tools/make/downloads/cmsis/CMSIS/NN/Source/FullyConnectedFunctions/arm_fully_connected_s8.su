@@ -1,0 +1,2 @@
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c:51:1:arm_fully_connected_s8	80	static
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/FullyConnectedFunctions/arm_fully_connected_s8.c:89:9:arm_fully_connected_s8_get_buffer_size	0	static

@@ -1,0 +1,15 @@
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:45:14:static TfLiteStatus tflite::internal::ContextHelper::AllocatePersistentBuffer(TfLiteContext*, size_t, void**)	0	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:51:14:static TfLiteStatus tflite::internal::ContextHelper::RequestScratchBufferInArena(TfLiteContext*, size_t, int*)	0	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:59:7:static void* tflite::internal::ContextHelper::GetScratchBuffer(TfLiteContext*, int)	0	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:64:6:)	12	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:75:1:tflite::MicroInterpreter::MicroInterpreter(const tflite::Model*, const tflite::MicroOpResolver&, uint8_t*, size_t, tflite::ErrorReporter*, tflite::Profiler*)	24	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:92:1:tflite::MicroInterpreter::MicroInterpreter(const tflite::Model*, const tflite::MicroOpResolver&, tflite::MicroAllocator*, tflite::ErrorReporter*, tflite::Profiler*)	24	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:107:1:tflite::MicroInterpreter::~MicroInterpreter()	24	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:122:6:void tflite::MicroInterpreter::Init(tflite::Profiler*)	8	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:141:6:void tflite::MicroInterpreter::CorrectTensorEndianness(TfLiteTensor*)	0	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:178:14:TfLiteStatus tflite::MicroInterpreter::AllocateTensors()	32	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:259:14:TfLiteStatus tflite::MicroInterpreter::Invoke()	64	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:301:15:TfLiteTensor* tflite::MicroInterpreter::input(size_t)	8	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:312:15:TfLiteTensor* tflite::MicroInterpreter::output(size_t)	8	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:323:15:TfLiteTensor* tflite::MicroInterpreter::tensor(size_t)	8	static
+../Tnaserflow/tensorflow/lite/micro/micro_interpreter.cc:334:14:TfLiteStatus tflite::MicroInterpreter::ResetVariableTensors()	24	static

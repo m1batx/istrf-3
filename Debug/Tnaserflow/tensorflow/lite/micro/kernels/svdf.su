@@ -1,0 +1,4 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/svdf.cc:339:7:void* tflite::ops::micro::svdf::Init(TfLiteContext*, const char*, size_t)	16	static
+../Tnaserflow/tensorflow/lite/micro/kernels/svdf.cc:349:14:TfLiteStatus tflite::ops::micro::svdf::Prepare(TfLiteContext*, TfLiteNode*)	112	static
+../Tnaserflow/tensorflow/lite/micro/kernels/svdf.cc:485:14:TfLiteStatus tflite::ops::micro::svdf::Eval(TfLiteContext*, TfLiteNode*)	160	static
+../Tnaserflow/tensorflow/lite/micro/kernels/svdf.cc:530:20:TfLiteRegistration tflite::ops::micro::Register_SVDF()	8	static

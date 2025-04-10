@@ -1,0 +1,2 @@
+../Tnaserflow/tensorflow/lite/micro/micro_string.cc:230:16:int MicroVsnprintf(char*, int, const char*, va_list)	112	static
+../Tnaserflow/tensorflow/lite/micro/micro_string.cc:299:16:)	16	static

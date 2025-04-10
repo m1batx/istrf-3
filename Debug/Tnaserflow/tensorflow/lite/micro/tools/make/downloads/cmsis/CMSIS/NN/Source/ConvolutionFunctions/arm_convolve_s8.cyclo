@@ -1,0 +1,2 @@
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c:52:12:arm_convolve_s8	36
+../Tnaserflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_s8.c:358:9:arm_convolve_s8_get_buffer_size	1

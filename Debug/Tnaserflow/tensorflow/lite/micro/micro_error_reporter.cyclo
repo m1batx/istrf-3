@@ -1,0 +1,3 @@
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:tflite::MicroErrorReporter::~MicroErrorReporter()	1
+../Tnaserflow/tensorflow/lite/micro/micro_error_reporter.cc:27:5:virtual int tflite::MicroErrorReporter::Report(const char*, va_list)	1
+C:/Users/mimoh/STM32CubeIDE/workspace_1.18.0/istrf-3/Tnaserflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	1

@@ -1,0 +1,5 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/arg_min_max.cc:47:14:TfLiteStatus tflite::ops::micro::arg_min_max::Eval(TfLiteContext*, TfLiteNode*, bool)	216	static
+../Tnaserflow/tensorflow/lite/micro/kernels/arg_min_max.cc:91:14:TfLiteStatus tflite::ops::micro::arg_min_max::ArgMinEval(TfLiteContext*, TfLiteNode*)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/arg_min_max.cc:95:14:TfLiteStatus tflite::ops::micro::arg_min_max::ArgMaxEval(TfLiteContext*, TfLiteNode*)	0	static
+../Tnaserflow/tensorflow/lite/micro/kernels/arg_min_max.cc:101:20:TfLiteRegistration tflite::ops::micro::Register_ARG_MAX()	8	static
+../Tnaserflow/tensorflow/lite/micro/kernels/arg_min_max.cc:112:20:TfLiteRegistration tflite::ops::micro::Register_ARG_MIN()	8	static

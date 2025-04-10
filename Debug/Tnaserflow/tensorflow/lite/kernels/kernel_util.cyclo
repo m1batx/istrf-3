@@ -1,0 +1,8 @@
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:122:14:TfLiteStatus tflite::GetQuantizedConvolutionMultipler(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, double*)	4
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:160:14:TfLiteStatus tflite::GetQuantizedConvolutionMultipler(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, double*)	2
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:201:14:TfLiteStatus tflite::CalculateActivationRangeQuantized(TfLiteContext*, TfLiteFusedActivation, TfLiteTensor*, int32_t*, int32_t*)	7
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:47:14:TfLiteStatus tflite::PopulateConvolutionQuantizationParams(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, const TfLiteFusedActivation&, int32_t*, int*, int32_t*, int32_t*, int32_t*, int*, int)	20
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:32:14:TfLiteStatus tflite::PopulateConvolutionQuantizationParams(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, const TfLiteFusedActivation&, int32_t*, int*, int32_t*, int32_t*, int32_t*, int*)	1
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:226:6:bool tflite::HaveSameShapes(const TfLiteTensor*, const TfLiteTensor*)	1
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:233:14:TfLiteStatus tflite::CalculateShapeForBroadcast(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, TfLiteIntArray**)	15
+../Tnaserflow/tensorflow/lite/kernels/kernel_util.cc:256:14:TfLiteStatus tflite::CalculateShapeForBroadcast(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteIntArray**)	30

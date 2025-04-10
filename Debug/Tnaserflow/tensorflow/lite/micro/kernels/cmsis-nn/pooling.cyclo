@@ -1,0 +1,7 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:250:7:void* tflite::ops::micro::pooling::Init(TfLiteContext*, const char*, size_t)	2
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:260:14:TfLiteStatus tflite::ops::micro::pooling::MaxPrepare(TfLiteContext*, TfLiteNode*)	7
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:275:14:TfLiteStatus tflite::ops::micro::pooling::AveragePrepare(TfLiteContext*, TfLiteNode*)	16
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:335:14:TfLiteStatus tflite::ops::micro::pooling::MaxEval(TfLiteContext*, TfLiteNode*)	86
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:310:14:TfLiteStatus tflite::ops::micro::pooling::AverageEval(TfLiteContext*, TfLiteNode*)	75
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:364:20:TfLiteRegistration tflite::ops::micro::Register_AVERAGE_POOL_2D()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/cmsis-nn/pooling.cc:375:20:TfLiteRegistration tflite::ops::micro::Register_MAX_POOL_2D()	1

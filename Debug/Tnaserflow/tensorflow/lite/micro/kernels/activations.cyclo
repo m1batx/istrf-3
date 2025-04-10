@@ -1,0 +1,6 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:80:14:TfLiteStatus tflite::ops::micro::activations::ReluPrepare(TfLiteContext*, TfLiteNode*)	1
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:117:14:TfLiteStatus tflite::ops::micro::activations::Relu6Prepare(TfLiteContext*, TfLiteNode*)	1
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:121:14:TfLiteStatus tflite::ops::micro::activations::Relu6Eval(TfLiteContext*, TfLiteNode*)	102
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:84:14:TfLiteStatus tflite::ops::micro::activations::ReluEval(TfLiteContext*, TfLiteNode*)	97
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:160:20:TfLiteRegistration tflite::ops::micro::Register_RELU()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/activations.cc:171:20:TfLiteRegistration tflite::ops::micro::Register_RELU6()	1

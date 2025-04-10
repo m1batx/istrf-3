@@ -1,0 +1,18 @@
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:38:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsNumericSupportedType]	5
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:105:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:77:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::AbsEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:101:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:81:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SinEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:85:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::CosEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:89:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogEval(TfLiteContext*, TfLiteNode*)	8
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:93:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SqrtEval(TfLiteContext*, TfLiteNode*)	10
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:97:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)	10
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:38:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsLogicalSupportedType]	5
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:113:20:TfLiteRegistration tflite::ops::micro::Register_ABS()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:125:20:TfLiteRegistration tflite::ops::micro::Register_SIN()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:137:20:TfLiteRegistration tflite::ops::micro::Register_COS()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:149:20:TfLiteRegistration tflite::ops::micro::Register_LOG()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:161:20:TfLiteRegistration tflite::ops::micro::Register_SQRT()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:173:20:TfLiteRegistration tflite::ops::micro::Register_RSQRT()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:185:20:TfLiteRegistration tflite::ops::micro::Register_SQUARE()	1
+../Tnaserflow/tensorflow/lite/micro/kernels/elementwise.cc:197:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_NOT()	1
